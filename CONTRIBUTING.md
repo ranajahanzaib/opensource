@@ -13,5 +13,5 @@ information on using pull requests.
 
 This project follows [Contributor Covenant](https://www.contributor-covenant.org/)
 as it's Code of Conduct, and we expect all project participants to adhere to it.
-Please read the [full guide](./blob/master/CODE_OF_CONDUCT.md) so that you can 
+Please read the [full guide](./CODE_OF_CONDUCT.md) so that you can 
 understand what actions will not be tolerated.
