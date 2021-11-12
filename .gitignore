@@ -24,3 +24,9 @@ yarn-error.log*
 
 #Firebase
 /.firebase
+
+#Flutter
+.dart_tool/
+.idea/
+.pub-cache/
+.packages
