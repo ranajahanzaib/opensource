@@ -30,3 +30,6 @@ yarn-error.log*
 .idea/
 .pub-cache/
 .packages
+
+# Uncomment following line if you'd like to commit and push google-services.json to GitHub
+*google-services.json
