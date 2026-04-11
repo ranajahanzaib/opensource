@@ -19,7 +19,6 @@ test/tmp/**
 # Production
 build
 dist
-dist
 .next
 target
 .out
@@ -44,6 +43,7 @@ test-timings.json
 
 # Misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
