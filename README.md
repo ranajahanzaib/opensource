@@ -2,11 +2,40 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-This is another Open Source Project.
+One-line description of what this project does and who it's for.
+
+## Features
+
+- Feature one
+- Feature two
+- Feature three
+
+## Getting Started
+
+### Prerequisites
+
+List anything the user needs to have installed before they can use this project.
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/username/repo-name.git
+cd repo-name
+
+# Install dependencies
+# add your install command here
+```
+
+### Usage
+
+```bash
+# Add your run command here
+```
 
 ## Contributing
 
-We’d love to accept your patches and contributions to this project. There are just a few guidelines you need to follow.
+We'd love to accept your patches and contributions to this project. There are just a few guidelines you need to follow.
 
 ### [Code of Conduct](./CODE_OF_CONDUCT.md)
 
@@ -24,4 +53,4 @@ See the open issues for a complete list of proposed features (and known issues).
 
 ## [License](./LICENSE)
 
-This project is licensed under the [MIT License](./LICENSE), meaning that you’re free to modify, distribute, and/or use it for any commercial or private project.
+This project is licensed under the [MIT License](./LICENSE), meaning that you're free to modify, distribute, and/or use it for any commercial or private project.
